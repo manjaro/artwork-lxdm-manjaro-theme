@@ -7,7 +7,7 @@ style "back"
 			function = FLAT_BOX
 			shadow=NONE
 			state = NORMAL
-			file="leather-dark.jpg"
+			file="background-image"
 			stretch=TRUE
 			detail = "base"
 		}
